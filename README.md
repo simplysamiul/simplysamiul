@@ -33,11 +33,11 @@
 
 ## 📊 My Github Stats
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simplysamiul&show_icons=true&locale=en&layout=compact" alt="simplysamiul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simplysamiul&show_icons=true&locale=en&layout=compact&theme=radical" alt="simplysamiul"/> </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simplysamiul&theme=radical)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simplysamiul&" alt="simplysamiul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simplysamiul&theme=radical" alt="simplysamiul" /></p>
 
 
