@@ -34,11 +34,14 @@
 
 ## 📊 My Github Stats
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simplysamiul&show_icons=true&locale=en&layout=compact&theme=radical" alt="simplysamiul"/> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simplysamiul&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="simplysamiul"/> </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simplysamiul&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simplysamiul&theme=react&hide_border=true&bg_color=0D1117)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simplysamiul&theme=radical" alt="simplysamiul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simplysamiul&theme=react&hide_border=true&bg_color=0D1117" alt="simplysamiul" /></p>
+
+
+[![Md Samiuls's github activity graph](https://activity-graph.herokuapp.com/graph?username=simplysamiul&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/simplysamiul/github-readme-activity-graph)
 
 
