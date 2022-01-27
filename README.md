@@ -18,6 +18,7 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+## ❤ Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplysamiul&label=Profile%20views&color=0e75b6&style=flat" alt="simplysamiul" /> </p>
 
 <h3 align="left">Connect with me:</h3>
