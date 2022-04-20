@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Quleep Private Ltd.](https://www.arnxt.com/)**
-
 - 🌱 I’m currently learning **MERN stack web development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
