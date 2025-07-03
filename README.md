@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **MERN stack web development.**
+- 🌱 I’m currently learning **Blockchain development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
