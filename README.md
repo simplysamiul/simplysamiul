@@ -1,27 +1,30 @@
-<!-- Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img width="100%" src="https://i.imgur.com/iXuL1HG.png"/>
+  <img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"> I'm <strong>Md Samiul Islam</strong></h1>
+<h1 align="center">Hi 👋 I'm <strong>Md Samiul Islam</strong></h1>
+<h3 align="center">MERN Stack Developer | Web3 & Blockchain Enthusiast | Bangladesh</h3>
 
-<h3 align="center">Full-Stack MERN Developer | Bangladesh</h3>
-<p align="center">I love transforming ideas into scalable web experiences while sipping coffee like it’s rocket fuel.</p>
+<p align="center">
+Building seamless digital experiences using modern web technologies, with a curiosity for decentralized systems and Web3 innovation.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently exploring **Blockchain & Smart Contracts**
-- 🤝 I enjoy collaborating on **Open Source** and real-world apps
-- 🎯 Goal: Become a **Top 1 percent Full-Stack Developer**
-- 👨‍💻 All my projects: **[My Portfolio](https://personal-portfolio-c6bac.web.app/)**
-- 📩 Reach me: **dev.samiulhowlader@gmail.com**
-- ⚡ Fun Fact: Gym + Games + Code = My happy triangle
+- 🔭 Currently expanding into **Blockchain Development**
+- 🤝 Looking to collaborate on **Open Source & Web3 projects**
+- 👨‍💻 My creations live here → **[Portfolio](https://personal-portfolio-c6bac.web.app/)**
+- 💬 Ask me about **MERN Stack, REST APIs, UI/UX & Smart Contracts**
+- 📧 Email → **dev.samiulhowlader@gmail.com**
+- ⚡ Life mantra → *“Code. Learn. Lift. Repeat.”*
 
 ---
 
-## 🔗 Connect with me
+## 🌍 Connect with Me
+
 <p align="center">
 <a href="https://linkedin.com/in/simplysamiul" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
 <a href="https://fb.com/simplysamiul" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png"/></a>
@@ -30,9 +33,9 @@
 
 ---
 
-## 🏆 Skills & Technologies
+## 🧠 Skills & Technologies
 
-<h4 align="center">Frontend</h4>
+### ✅ Frontend
 <p align="center">
 <img src="https://img.icons8.com/color/48/html-5.png"/>
 <img src="https://img.icons8.com/color/48/css3.png"/>
@@ -42,7 +45,7 @@
 <img width="48" src="https://raw.githubusercontent.com/saadeghi/daisyui/main/media/favicon.ico"/>
 </p>
 
-<h4 align="center">Backend & Database</h4>
+### ✅ Backend & Database
 <p align="center">
 <img src="https://img.icons8.com/color/48/nodejs.png"/>
 <img width="48" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
@@ -50,7 +53,15 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48"/>
 </p>
 
-<h4 align="center">Tools & Services</h4>
+### ✅ Blockchain & Web3
+<p align="center">
+<img width="48" src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity"/>
+<img src="https://img.icons8.com/?size=48&id=2ZOaTclOqD4Y&format=png" alt="Web3"/>
+<img src="https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png" alt="Blockchain"/>
+<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032" width="48" alt="Ethereum"/>
+</p>
+
+### ✅ Developer Tools & Services
 <p align="center">
 <img src="https://img.icons8.com/color/48/git.png"/>
 <img width="48" src="https://img.icons8.com/color/48/npm.png"/>
@@ -60,36 +71,31 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=simplysamiul&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=simplysamiul&theme=react&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=simplysamiul&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=simplysamiul&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=simplysamiul&show_icons=true&theme=react&layout=compact&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simplysamiul&theme=react-dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=simplysamiul&show_icons=true&theme=react&layout=compact&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysamiul&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
 
-## 🎯 Developer Philosophy
+## 🏆 Developer Principles
 
-> *"Code should be clean, scalable and as refreshing as a cup of strong coffee."*
+> “Craft maintainable experiences. Honor clean code. Build for the future where the web becomes trustless and decentralized.”
 
 ---
 
-## 🤍 Profile Visitors
+## 👀 Profile Visitors
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=simplysamiul&label=Profile+Views&color=blue&style=flat"/>
 </p>
 
 ---
-<p align="center">🔥 Always learning. Always building. Always leveling up.</p>
+
+<p align="center">🔹 Passion. 🔹 Persistence. 🔹 Progress.</p>
