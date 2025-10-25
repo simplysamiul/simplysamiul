@@ -11,49 +11,38 @@
 
 ## 🚀 Skills & Technologies
 
-<style>
-.badge-container img {
-  margin: 8px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-.badge-container img:hover {
-  transform: scale(1.2);
-  box-shadow: 0px 0px 12px rgba(0, 255, 255, 0.6);
-}
-</style>
-
-### 🎨 Frontend Development
-<p align="center" class="badge-container">
-<img src="https://img.icons8.com/color/60/html-5.png"/>
-<img src="https://img.icons8.com/color/60/css3.png"/>
-<img src="https://img.icons8.com/color/60/javascript.png"/>
-<img src="https://img.icons8.com/ultraviolet/60/react.png"/>
-<img src="https://img.icons8.com/color/60/tailwindcss.png"/>
-<img width="60" src="https://raw.githubusercontent.com/saadeghi/daisyui/main/media/favicon.ico"/>
+### 🎨 Frontend Development  
+<p align="center">
+<img src="https://img.icons8.com/color/48/html-5.png"/>
+<img src="https://img.icons8.com/color/48/css3.png"/>
+<img src="https://img.icons8.com/color/48/javascript.png"/>
+<img src="https://img.icons8.com/ultraviolet/48/react.png"/>
+<img src="https://img.icons8.com/color/48/tailwindcss.png"/>
+<img width="48" src="https://raw.githubusercontent.com/saadeghi/daisyui/main/media/favicon.ico"/>
 </p>
 
 ### ⚙️ Backend & Database
-<p align="center" class="badge-container">
-<img src="https://img.icons8.com/color/60/nodejs.png"/>
-<img width="60" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
-<img src="https://img.icons8.com/color/60/mongodb.png"/>
-<img width="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+<p align="center">
+<img src="https://img.icons8.com/color/48/nodejs.png"/>
+<img width="48" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
+<img src="https://img.icons8.com/color/48/mongodb.png"/>
+<img width="48" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
 </p>
 
-### 🔗 Blockchain & Web3
-<p align="center" class="badge-container">
-<img width="60" src="https://cdn.worldvectorlogo.com/logos/solidity.svg"/>
-<img width="60" src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032"/>
-<img width="60" src="https://img.icons8.com/?size=60&id=2ZOaTclOqD4Y&format=png"/>
-<img width="60" src="https://img.icons8.com/?size=60&id=aR9CXyMagKIS&format=png"/>
+### 🔗 Blockchain & Web3  
+<p align="center">
+<img width="48" src="https://cdn.worldvectorlogo.com/logos/solidity.svg"/>
+<img width="48" src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032"/>
+<img width="48" src="https://img.icons8.com/?size=48&id=2ZOaTclOqD4Y&format=png"/>
+<img width="48" src="https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png"/>
 </p>
 
-### 🧰 Tools & Deployment
-<p align="center" class="badge-container">
-<img src="https://img.icons8.com/color/60/git.png"/>
-<img src="https://img.icons8.com/color/60/npm.png"/>
-<img src="https://img.icons8.com/color/60/vercel.png"/>
-<img width="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
+### 🧰 Tools & Deployment  
+<p align="center">
+<img src="https://img.icons8.com/color/48/git.png"/>
+<img src="https://img.icons8.com/color/48/npm.png"/>
+<img src="https://img.icons8.com/color/48/vercel.png"/>
+<img width="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
 </p>
 
 ---
